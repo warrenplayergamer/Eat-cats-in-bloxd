@@ -3,7 +3,7 @@ You can now eat cats
 code by SOMPENDER
 code :
 
-```// WorldCode
+// WorldCode
 // EatCats V1 by Sompender
 
 SOUNDS = [["burp", .5], ["burp", .7], ["eat1", .3], ["eat1", .5]];
